@@ -1,0 +1,25 @@
+{
+  "name": "node_koa2_project",
+  "version": "1.0.0",
+  "description": "node koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyh321/node_koa2_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyh321/node_koa2_project/issues"
+  },
+  "homepage": "https://github.com/yyh321/node_koa2_project#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0"
+  }
+}
